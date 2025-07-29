@@ -2,7 +2,7 @@
     "translators": "JIFENG",
     "nav": {
       "home": "故乡",
-      "device": "电器",
+      "device": "装置",
       "plugin": "插件",
       "settings": "设定"
     },
@@ -28,7 +28,7 @@
     },
     "about": {
       "title": "大约",
-      "appVersion": "程式说法",
+      "appVersion": "程式版本",
       "foundNew": "找到新",
       "checking": "正在搜查",
       "download": "向下载入更加新的",
